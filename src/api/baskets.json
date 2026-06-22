@@ -1,0 +1,40 @@
+{
+  "baskets": [
+    {
+      "id": "basket_1747649576122",
+      "userId": "tll6xi98dy",
+      "items": [
+        {
+          "productId": "premiumDog",
+          "quantity": 1,
+          "id": "premiumDog",
+          "name": "Premium Dog Food",
+          "img": "/foodPics/dog_food_images/dogfood4.png"
+        }
+      ],
+      "createdAt": "2025-05-19T10:12:56.122Z",
+      "updatedAt": "2025-05-19T10:17:41.091Z"
+    },
+    {
+      "id": "basket_1747988516233",
+      "userId": "lg14aboc9s",
+      "items": [],
+      "createdAt": "2025-05-23T08:21:56.231Z",
+      "updatedAt": "2025-05-23T08:23:38.240Z"
+    },
+    {
+      "id": "basket_1747989598582",
+      "userId": "9z3t3q7b8mm",
+      "items": [],
+      "createdAt": "2025-05-23T08:39:58.582Z",
+      "updatedAt": "2025-05-23T08:41:57.578Z"
+    },
+    {
+      "id": "basket_1747994333287",
+      "userId": "wgx48iabqwl",
+      "items": [],
+      "createdAt": "2025-05-23T09:58:53.286Z",
+      "updatedAt": "2025-05-23T09:58:53.287Z"
+    }
+  ]
+}

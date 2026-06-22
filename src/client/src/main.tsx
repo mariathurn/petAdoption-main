@@ -1,0 +1,20 @@
+// src/client/src/main.tsx
+
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { RouterProvider } from "react-router-dom";
+import { router } from "./router";
+import { AuthProvider } from "./context/AuthContext";
+import "./index.css"; // if you already import global styles here
+import { CartProvider } from "./context/CartContext";
+
+
+ReactDOM.createRoot(document.getElementById("root")!).render(
+  <React.StrictMode>
+    <AuthProvider>
+       <CartProvider>
+        <RouterProvider router={router} />
+      </CartProvider>
+    </AuthProvider>
+  </React.StrictMode>
+);

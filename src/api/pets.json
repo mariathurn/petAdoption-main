@@ -1,0 +1,180 @@
+{
+  "pets": [
+    {
+      "id": "123456",
+      "name": "Bella",
+      "img": "/petPics/dog_images/bella.jpg",
+      "breed": "Golden Retriever",
+      "gender": "Female",
+      "age": "2 years",
+      "size": "Large",
+      "pet": "dog",
+      "about": "Bella is a sweet and playful Golden Retriever who loves being around people. She enjoys long walks in the park and playing fetch with tennis balls. Bella is gentle with children and gets along well with other dogs. She’s smart and responds well to basic commands. A perfect family companion!"
+    },
+    {
+      "id": "234567",
+      "name": "Luna",
+      "img": "/petPics/dog_images/luna.jpg",
+      "breed": "Siamese",
+      "gender": "Female",
+      "age": "1 year",
+      "size": "Small",
+      "pet": "dog",
+      "about": "Luna is a curious and affectionate pup with a calm personality. She enjoys cuddling up on the couch and will follow you around the house. Luna is shy at first but quickly warms up with gentle attention. She’s very loyal and always eager to please. Her favorite activity is sunbathing by the window."
+    },
+    {
+      "id": "345678",
+      "name": "Bruno",
+      "img": "/petPics/dog_images/bruno.jpg",
+      "breed": "Labrador",
+      "gender": "Male",
+      "age": "3 years",
+      "size": "Large",
+      "pet": "dog",
+      "about": "Bruno is full of energy and loves outdoor adventures. He thrives in active households and enjoys hiking, swimming, and fetching sticks. Despite his size, he’s a gentle giant with a soft heart. Bruno is crate trained and walks well on a leash. He would love a backyard to run in."
+    },
+    {
+      "id": "456789",
+      "name": "Duke",
+      "img": "/petPics/dog_images/duke.jpg",
+      "breed": "German Shepherd",
+      "gender": "Male",
+      "age": "4 years",
+      "size": "Large",
+      "pet": "dog",
+      "about": "Duke is a loyal and protective companion, ideal for someone looking for a watchful friend. He’s well-trained and responds to advanced commands. He bonds strongly with his humans and is very affectionate once he trusts you. Duke loves mental stimulation like puzzle toys. A great fit for experienced dog owners."
+    },
+    {
+      "id": "567890",
+      "name": "Jack",
+      "img": "/petPics/dog_images/jack.jpg",
+      "breed": "Beagle",
+      "gender": "Male",
+      "age": "2 years",
+      "size": "Medium",
+      "pet": "dog",
+      "about": "Jack is a cheerful and curious beagle who loves to sniff everything. He’s highly food-motivated and easy to train. Jack gets along well with kids and other pets. His big floppy ears and wagging tail will win you over. Great for families or apartment living."
+    },
+    {
+      "id": "678901",
+      "name": "Max",
+      "img": "/petPics/dog_images/max.jpg",
+      "breed": "Border Collie",
+      "gender": "Male",
+      "age": "1.5 years",
+      "size": "Medium",
+      "pet": "dog",
+      "about": "Max is an intelligent and energetic dog who loves to stay busy. He excels at learning tricks and would be perfect for agility training. Max needs regular exercise and mental challenges. He’s affectionate, loyal, and thrives with an active owner. Max would love to join you on adventures!"
+    },
+    {
+      "id": "789012",
+      "name": "Rex",
+      "img": "/petPics/dog_images/rex.jpg",
+      "breed": "Rottweiler",
+      "gender": "Male",
+      "age": "5 years",
+      "size": "Large",
+      "pet": "dog",
+      "about": "Rex is calm, confident, and well-mannered. Though large in stature, he’s incredibly gentle with his favorite people. Rex is fully house-trained and prefers a quiet home. He enjoys belly rubs and lazy afternoons. A gentle protector and loyal friend."
+    },
+    {
+      "id": "890123",
+      "name": "Zoey",
+      "img": "/petPics/dog_images/zoey.jpg",
+      "breed": "Cocker Spaniel",
+      "gender": "Female",
+      "age": "3 years",
+      "size": "Medium",
+      "pet": "dog",
+      "about": "Zoey is a loving spaniel with a playful spark. She enjoys grooming, soft toys, and lounging near her human. Zoey is calm indoors but lights up during walks. She’s good with other dogs and loves kids. A lovely lap companion with a gentle heart."
+    },
+    {
+      "id": "901234",
+      "name": "Bailey",
+      "img": "/petPics/cat_images/bailey.jpg",
+      "breed": "Tabby",
+      "gender": "Female",
+      "age": "2 years",
+      "size": "Small",
+      "pet": "cat",
+      "about": "Bailey is a playful tabby who loves chasing feathers and laser pointers. She’s very independent but appreciates affection on her terms. Bailey enjoys lounging on windowsills and watching birds. She’s low-maintenance and uses her litter box reliably. Ideal for apartment life."
+    },
+    {
+      "id": "101234",
+      "name": "Cooper",
+      "img": "/petPics/cat_images/cooper.jpg",
+      "breed": "British Shorthair",
+      "gender": "Male",
+      "age": "3 years",
+      "size": "Medium",
+      "pet": "cat",
+      "about": "Cooper is a calm, stoic cat with a plush coat and big round eyes. He enjoys quiet evenings and gentle pets. Cooper doesn’t mind being alone during the day but appreciates snuggles at night. He’s tidy, well-behaved, and very photogenic. Great for first-time cat owners."
+    },
+    {
+      "id": "112345",
+      "name": "Gizmo",
+      "img": "/petPics/cat_images/gizmo.jpg",
+      "breed": "Maine Coon",
+      "gender": "Male",
+      "age": "4 years",
+      "size": "Large",
+      "pet": "cat",
+      "about": "Gizmo is a gentle giant with a fluffy mane and calm personality. He’s great with kids and other pets. Gizmo enjoys brushing sessions and naps in sunspots. Despite his size, he’s easygoing and not at all demanding. A cat with the heart of a lion and the soul of a teddy bear."
+    },
+    {
+      "id": "121234",
+      "name": "Lucy",
+      "img": "/petPics/cat_images/lucy.jpg",
+      "breed": "Ragdoll",
+      "gender": "Female",
+      "age": "1.5 years",
+      "size": "Medium",
+      "pet": "cat",
+      "about": "Lucy is a gentle and affectionate cat who loves to be held. She follows her human around and thrives on attention. Lucy is soft, quiet, and excellent with children. Her blue eyes will melt your heart. Perfect for families and calm households."
+    },
+    {
+      "id": "134567",
+      "name": "Mia",
+      "img": "/petPics/cat_images/mia.jpg",
+      "breed": "Siamese",
+      "gender": "Female",
+      "age": "3 years",
+      "size": "Small",
+      "pet": "cat",
+      "about": "Mia is chatty, curious, and incredibly clever. She loves climbing and exploring every corner of the home. Mia enjoys companionship but will also claim her own cozy space. A natural entertainer, she’ll keep you smiling. Great for an interactive household."
+    },
+    {
+      "id": "145678",
+      "name": "Molly",
+      "img": "/petPics/cat_images/molly.jpg",
+      "breed": "Persian",
+      "gender": "Female",
+      "age": "5 years",
+      "size": "Small",
+      "pet": "cat",
+      "about": "Molly is a laid-back Persian cat who lives for naps and neck rubs. She prefers a quiet, calm environment and loves curling up on soft blankets. Molly doesn’t ask for much, just a peaceful home. Her fluffy coat and sweet temperament make her a dream companion."
+    },
+    {
+      "id": "156789",
+      "name": "Oliver",
+      "img": "/petPics/cat_images/oliver.jpg",
+      "breed": "Scottish Fold",
+      "gender": "Male",
+      "age": "2 years",
+      "size": "Medium",
+      "pet": "cat",
+      "about": "Oliver is a quirky little cat with folded ears and a big personality. He’s always curious and loves toys that challenge him. Oliver is independent but loves occasional snuggles. He adapts well to new environments. A charming and easygoing feline friend."
+    },
+    {
+      "id": "167890",
+      "name": "Simba",
+      "img": "/petPics/cat_images/simba.jpg",
+      "breed": "Abyssinian",
+      "gender": "Male",
+      "age": "2.5 years",
+      "size": "Medium",
+      "pet": "cat",
+      "about": "Simba is energetic, adventurous, and always on the move. He climbs, jumps, and plays nonstop. Simba loves attention and wants to be part of everything you do. His striking eyes and sleek coat make him stand out. Best for active households."
+    }
+  ]
+}

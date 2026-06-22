@@ -1,0 +1,207 @@
+{
+  "petfood": [
+    {
+      "id": "yummyDog",
+      "name": "Yummy Dog Food",
+      "img": "/foodPics/dog_food_images/dogfood.png",
+      "description": "Complete Dry Dog Food made with essential vitamins and minerals for everyday nutrition. Great taste your dog will love and balanced for all breeds.",
+      "shortDescription": "Crispy & nutritious.",
+      "price": 120,
+      "category": "dog",
+      "foodType": "dry",
+      "source": "non-organic"
+    },
+    {
+      "id": "organicDog",
+      "name": "Organic Dog Food",
+      "img": "/foodPics/dog_food_images/dogfood2.png",
+      "description": "Organic Dry Dog Food crafted with premium natural ingredients. No artificial additives, just wholesome nutrition to support a healthy lifestyle.",
+      "shortDescription": "Healthy & organic.",
+      "originalPrice": 180,
+      "discountPercent": 17,
+      "category": "dog",
+      "foodType": "dry",
+      "source": "organic"
+    },
+    {
+      "id": "premiumDog",
+      "name": "Premium Dog Food",
+      "img": "/foodPics/dog_food_images/dogfood4.png",
+      "description": "Premium Dry Dog Food with high-protein content and added antioxidants. Ideal for active dogs and formulated for optimal energy and vitality.",
+      "shortDescription": "High-quality kibble.",
+      "price": 140,
+      "category": "dog",
+      "foodType": "dry",
+      "source": "non-organic"
+    },
+    {
+      "id": "yummyCatNonOrganic",
+      "name": "Yummy Cat Food",
+      "img": "/foodPics/cat_food_images/catfood4.png",
+      "description": "Complete Dry Cat Food designed for taste and health. Fortified with taurine and essential nutrients for your feline’s daily needs.",
+      "shortDescription": "Crispy & tasty.",
+      "price": 80,
+      "category": "cat",
+      "foodType": "dry",
+      "source": "non-organic"
+    },
+    {
+      "id": "yummyCatOrganic",
+      "name": "Yummy Cat Food (Organic)",
+      "img": "/foodPics/cat_food_images/cat-dryfood-organic.jpg",
+      "description": "Organic Dry Cat Food with ethically sourced ingredients. A clean, wholesome recipe that supports digestion and overall feline wellness.",
+      "shortDescription": "Crispy & organic.",
+      "originalPrice": 130,
+      "discountPercent": 15,
+      "category": "cat",
+      "foodType": "dry",
+      "source": "organic"
+    },
+    {
+      "id": "dryCatNonOrganic",
+      "name": "Dry Cat Food",
+      "img": "/foodPics/cat_food_images/cat-dry-food-non-organic.jpg",
+      "description": "Dry Cat Food made with delicious flavors and crunchy textures. Balanced formula that provides energy and supports skin and coat health.",
+      "shortDescription": "Crunchy & tasty.",
+      "price": 75,
+      "category": "cat",
+      "foodType": "dry",
+      "source": "non-organic"
+    },
+    {
+      "id": "dogWetFoodNonOrganic",
+      "name": "Wet Dog Food",
+      "img": "/foodPics/dog_food_images/dog-wet-food-non-organic.jpg",
+      "description": "Canned Wet Dog Food rich in moisture and flavor. Ideal for hydration and picky eaters. Packed with protein to support muscle health.",
+      "shortDescription": "Soft & juicy.",
+      "price": 85,
+      "category": "dog",
+      "foodType": "wet",
+      "source": "non-organic"
+    },
+    {
+      "id": "dogWetFoodOrganic",
+      "name": "Organic Wet Dog Food",
+      "img": "/foodPics/dog_food_images/dog-wet-food-organic.jpg",
+      "description": "Organic Canned Dog Food with farm-raised meats and organic vegetables. Provides hydration and premium nutrition in every bite.",
+      "shortDescription": "Rich & organic.",
+      "originalPrice": 140,
+      "discountPercent": 14,
+      "category": "dog",
+      "foodType": "wet",
+      "source": "organic"
+    },
+    {
+      "id": "gourmetDog",
+      "name": "Premium Cat Food",
+      "img": "/foodPics/cat_food_images/catfood.png",
+      "description": "Wet Cat Food that’s rich in flavor and texture. A delightful meal your cat will crave, with high moisture and gentle ingredients.",
+      "shortDescription": "Silky & tasty.",
+      "price": 70,
+      "category": "cat",
+      "foodType": "wet",
+      "source": "non-organic"
+    },
+    {
+      "id": "gourmetCat",
+      "name": "Gourmet Cat Paté",
+      "img": "/foodPics/cat_food_images/catfood2.png",
+      "description": "Organic Wet Cat Food paté crafted for the most refined felines. Smooth, flavorful, and filled with premium organic ingredients.",
+      "shortDescription": "Smooth & gourmet.",
+      "originalPrice": 100,
+      "discountPercent": 10,
+      "category": "cat",
+      "foodType": "wet",
+      "source": "organic"
+    },
+    {
+      "id": "rawDogNonOrganic",
+      "name": "Raw Dog Food",
+      "img": "/foodPics/dog_food_images/dog-raw-food non-organic.jpg",
+      "description": "Raw Dog Food with fresh cuts of meat and bone for a biologically appropriate diet. Supports strong muscles, teeth, and a shiny coat.",
+      "shortDescription": "Fresh raw diet.",
+      "price": 220,
+      "category": "dog",
+      "foodType": "raw",
+      "source": "non-organic"
+    },
+    {
+      "id": "rawDogOrganic",
+      "name": "Organic Raw Dog Food",
+      "img": "/foodPics/dog_food_images/dog-raw-food-organic.jpg",
+      "description": "Organic Raw Dog Food with human-grade, grass-fed meats and organic vegetables. A high-performance diet for peak canine health.",
+      "shortDescription": "Premium organic raw diet.",
+      "price": 280,
+      "category": "dog",
+      "foodType": "raw",
+      "source": "organic"
+    },
+    {
+      "id": "rawCatNonOrganic",
+      "name": "Raw Cat Food",
+      "img": "/foodPics/cat_food_images/cat-rawfood-non-organic.jpg",
+      "description": "Raw Cat Food designed to mimic a natural feline diet. Contains whole meat and organs to support lean muscle and overall vitality.",
+      "shortDescription": "Natural raw diet.",
+      "price": 200,
+      "category": "cat",
+      "foodType": "raw",
+      "source": "non-organic"
+    },
+    {
+      "id": "rawCatOrganic",
+      "name": "Organic Raw Cat Food",
+      "img": "/foodPics/cat_food_images/cat-raw-food-organic.jpg",
+      "description": "Organic Raw Cat Food with responsibly sourced meats and no fillers. Promotes energy, digestion, and healthy fur.",
+      "shortDescription": "Pure organic raw diet.",
+      "originalPrice": 240,
+      "discountPercent": 15,
+      "category": "cat",
+      "foodType": "raw",
+      "source": "organic"
+    },
+    {
+      "id": "crunchyDog",
+      "name": "Crunchy Dog Treats",
+      "img": "/foodPics/dog_food_images/dogfood3.png",
+      "description": "Dog Treats with a satisfying crunch and irresistible taste. Perfect for training or rewarding good behavior.",
+      "shortDescription": "Crunchy & tasty.",
+      "price": 45,
+      "category": "dog",
+      "foodType": "treats",
+      "source": "non-organic"
+    },
+    {
+      "id": "treatsDogOrganic",
+      "name": "Organic Dog Treats",
+      "img": "/foodPics/dog_food_images/dogs-treats-organic.jpg",
+      "description": "Organic Dog Treats made with clean ingredients and no artificial preservatives. Tasty, crunchy, and safe for daily snacking.",
+      "shortDescription": "Crunchy & organic.",
+      "price": 65,
+      "category": "dog",
+      "foodType": "treats",
+      "source": "organic"
+    },
+    {
+      "id": "crunchyCat",
+      "name": "Crunchy Cat Treats",
+      "img": "/foodPics/cat_food_images/catfood3.png",
+      "description": "Cat Treats that combine crunch with flavor cats crave. Ideal for daily rewards and promoting dental health.",
+      "shortDescription": "Crunchy & tasty.",
+      "price": 40,
+      "category": "cat",
+      "foodType": "treats",
+      "source": "non-organic"
+    },
+    {
+      "id": "treatsCatOrganic",
+      "name": "Organic Cat Treats",
+      "img": "/foodPics/cat_food_images/cat-treats-organic.jpg",
+      "description": "Organic Cat Treats made with real ingredients. Grain-free and gentle on the stomach for a healthy indulgence.",
+      "shortDescription": "Crunchy & organic.",
+      "price": 55,
+      "category": "cat",
+      "foodType": "treats",
+      "source": "organic"
+    }
+  ]
+}
