@@ -1,4 +1,4 @@
-# Aoption & Food Store
+# Adoption & Food Store
 
 <img width="450" alt="picture of store" src="https://github.com/user-attachments/assets/9571c815-9136-4f35-a4b1-b8de8ca982ab" />
 
